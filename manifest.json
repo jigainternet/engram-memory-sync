@@ -8,6 +8,14 @@
       "sessions": 18,
       "memories": 32,
       "prompts": 0
+    },
+    {
+      "id": "ed7c0d4b",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-20T15:12:43Z",
+      "sessions": 0,
+      "memories": 1,
+      "prompts": 0
     }
   ]
 }
