@@ -40,6 +40,14 @@
       "sessions": 0,
       "memories": 1,
       "prompts": 0
+    },
+    {
+      "id": "8329dd03",
+      "created_by": "Nacho",
+      "created_at": "2026-07-21T11:17:42Z",
+      "sessions": 1,
+      "memories": 0,
+      "prompts": 0
     }
   ]
 }
