@@ -112,6 +112,14 @@
       "sessions": 0,
       "memories": 1,
       "prompts": 0
+    },
+    {
+      "id": "04ab99cb",
+      "created_by": "NACHO-MOVE-ZAB7",
+      "created_at": "2026-07-21T14:14:04Z",
+      "sessions": 1,
+      "memories": 0,
+      "prompts": 0
     }
   ]
 }
