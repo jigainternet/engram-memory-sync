@@ -208,6 +208,14 @@
       "sessions": 2,
       "memories": 1,
       "prompts": 0
+    },
+    {
+      "id": "678f731e",
+      "created_by": "NACHO-PORTATIL",
+      "created_at": "2026-11-06T12:50:12.5776336Z",
+      "sessions": 1,
+      "memories": 0,
+      "prompts": 0
     }
   ]
 }
