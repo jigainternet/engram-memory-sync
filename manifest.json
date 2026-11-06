@@ -200,6 +200,14 @@
       "sessions": 12,
       "memories": 13,
       "prompts": 0
+    },
+    {
+      "id": "00c41d07",
+      "created_by": "NACHO-PORTATIL",
+      "created_at": "2026-11-06T12:43:23.9047706Z",
+      "sessions": 2,
+      "memories": 1,
+      "prompts": 0
     }
   ]
 }
