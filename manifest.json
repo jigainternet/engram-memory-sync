@@ -168,6 +168,30 @@
       "sessions": 1,
       "memories": 0,
       "prompts": 0
+    },
+    {
+      "id": "42a186c7",
+      "created_by": "NACHO-PORTATIL",
+      "created_at": "2026-08-03T07:43:08Z",
+      "sessions": 1,
+      "memories": 0,
+      "prompts": 0
+    },
+    {
+      "id": "e49555c5",
+      "created_by": "NACHO-PORTATIL",
+      "created_at": "2026-08-04T12:41:50Z",
+      "sessions": 1,
+      "memories": 1,
+      "prompts": 0
+    },
+    {
+      "id": "a3a2212c",
+      "created_by": "NACHO-PORTATIL",
+      "created_at": "2026-09-01T19:48:47Z",
+      "sessions": 1,
+      "memories": 0,
+      "prompts": 0
     }
   ]
 }
