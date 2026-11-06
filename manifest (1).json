@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "chunks": [
+    {
+      "id": "9393bc40",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-20T14:58:46Z",
+      "sessions": 18,
+      "memories": 32,
+      "prompts": 0
+    },
+    {
+      "id": "ed7c0d4b",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-20T15:12:43Z",
+      "sessions": 0,
+      "memories": 1,
+      "prompts": 0
+    },
+    {
+      "id": "930cfbd6",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-21T10:14:58Z",
+      "sessions": 1,
+      "memories": 2,
+      "prompts": 0
+    },
+    {
+      "id": "4d2ebf6b",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-21T10:19:05Z",
+      "sessions": 0,
+      "memories": 1,
+      "prompts": 0
+    },
+    {
+      "id": "c43f3e8f",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-21T10:48:52Z",
+      "sessions": 0,
+      "memories": 1,
+      "prompts": 0
+    },
+    {
+      "id": "8329dd03",
+      "created_by": "Nacho",
+      "created_at": "2026-07-21T11:17:42Z",
+      "sessions": 1,
+      "memories": 0,
+      "prompts": 0
+    },
+    {
+      "id": "e3906063",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-21T11:19:44Z",
+      "sessions": 0,
+      "memories": 1,
+      "prompts": 0
+    },
+    {
+      "id": "a0624e4e",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-21T11:33:22Z",
+      "sessions": 0,
+      "memories": 1,
+      "prompts": 0
+    },
+    {
+      "id": "39c4206d",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-21T11:36:47Z",
+      "sessions": 0,
+      "memories": 1,
+      "prompts": 0
+    },
+    {
+      "id": "c37d548e",
+      "created_by": "Nacho",
+      "created_at": "2026-07-21T12:20:39Z",
+      "sessions": 1,
+      "memories": 0,
+      "prompts": 0
+    },
+    {
+      "id": "3eba260f",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-21T12:36:20Z",
+      "sessions": 0,
+      "memories": 1,
+      "prompts": 0
+    },
+    {
+      "id": "228e3d0c",
+      "created_by": "NACHO_MOVE_ZAB",
+      "created_at": "2026-07-21T12:37:41Z",
+      "sessions": 0,
+      "memories": 2,
+      "prompts": 0
+    }
+  ]
+}
